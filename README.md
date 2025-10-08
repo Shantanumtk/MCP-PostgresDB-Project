@@ -6,7 +6,7 @@ This SOP walks you from zero to a working **PostgreSQL MCP server** wired into *
 
 ## Prerequisites
 
-* macOS with Postgres running locally and reachable on `127.0.0.1:5432`.
+* System(MacOS/LinuxOS/WindowsOS) with Postgres running locally and reachable on `127.0.0.1:5432`.
 * A database to monitor (e.g., `pagila`).
 * Admin/superuser access to run SQL grants and enable extensions.
 * Python installed; you’ll create a virtualenv in **Step 3** with `python3 -m venv .venv && source .venv/bin/activate` (or use Docker as an alternative).

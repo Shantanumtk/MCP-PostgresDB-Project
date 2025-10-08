@@ -270,6 +270,14 @@ DROP ROLE IF EXISTS claude_ro;
 
 ---
 ## Deployment Screenshot
+<img width="1422" height="477" alt="MCP-1" src="https://github.com/user-attachments/assets/9bdfb331-f7ba-4d32-a09c-338a34f70c21" />
+<img width="1710" height="831" alt="MCP-1-1" src="https://github.com/user-attachments/assets/f00a3648-a916-4cc6-aae5-82083de95c6b" />
+<img width="1710" height="827" alt="MCP-2" src="https://github.com/user-attachments/assets/2f8de5a4-97e5-410c-a150-43f18f287021" />
+<img width="1710" height="827" alt="MCP-3" src="https://github.com/user-attachments/assets/edf30dc8-b42e-4d0e-854e-b24fdcb6037a" />
+<img width="1710" height="827" alt="MCP-4" src="https://github.com/user-attachments/assets/ede8d1fe-a8aa-4ec4-b168-5dcbf289fb33" />
+<img width="1710" height="827" alt="MCP-5" src="https://github.com/user-attachments/assets/06f041c5-ea83-48c5-b666-64220b548cdb" />
+<img width="1710" height="831" alt="MCP-6" src="https://github.com/user-attachments/assets/708bbd87-a8cc-439f-8dc5-3ceaeb3d7914" />
+<img width="1710" height="831" alt="MCP-7" src="https://github.com/user-attachments/assets/87bd81b1-58e2-44c7-998a-22cd229f2572" />
 
 ## Appendix: Useful One‑liners
 
